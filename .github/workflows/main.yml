@@ -63,7 +63,7 @@ jobs:
           echo "🚀 Step 2..."
           sleep 10
       - run: |
-          echo "🚀 Step 3...
+          echo "🚀 Step 3..."
           sleep 10
       - run: |
           echo "🚀 Step 4..."
